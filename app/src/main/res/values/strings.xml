@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ProjectAkhir</string>
+    <string name="back_button">Kembali</string>
+    <string name="confirm">Konfirmasi</string>
+    <string name="next">Lanjut</string>
+    <string name="cancel">Batal</string>
+    <string name="namaPihak">Nama Yang Mengajukan</string>
+    <string name="kegiatan">Nama Kegiatan</string>
+    <string name="noTelepon">NoTelp</string>
+    <string name="ph">Pimpinan Harian</string>
+    <string name="humas">Hubungan Masyarakat</string>
+    <string name="iptek">Ilmu Pengetahuan dan Teknologi</string>
+    <string name="sbo">Seni Budaya dan Olahraga</string>
+    <string name="kwu">Kewirausahaan</string>
+    <string name="kh">Kerohanian</string>
+    <string name="medpro">Media dan Propaganda</string>
+    <string name="kastrad">Kajian Strategis dan Advokasi</string>
+    <string name="send">Kirim Data</string>
+</resources>
